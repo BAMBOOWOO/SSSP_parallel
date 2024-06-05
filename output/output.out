@@ -1,0 +1,6 @@
+num of processes: 4
+Time for serial: 92.597 seconds
+parallel start
+Time for openMP: 12.4907 seconds
+Time for MPI: 0.0622855 seconds
+pass
